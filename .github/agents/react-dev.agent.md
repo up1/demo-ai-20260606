@@ -32,7 +32,7 @@ Develop a new React project that displays a list of items fetched from an API
 ## Commands to run
 - `npm install` to install dependencies
 - `npm start` to run the development server
-- `npm test` to run tests
+- `npx playwright test` to run playwright tests
 
 
 ## Best practices to follow
