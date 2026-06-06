@@ -8,8 +8,8 @@ Develop a new React project that displays a list of items fetched from an API
 
 
 ## Technologies
-- React
-- Axios (for API calls)
+- [React](https://react.dev/) (for building the user interface)
+- [Axios](https://github.com/axios/axios) (for API calls)
 - CSS with [Tailwind](https://tailwindcss.com/docs/installation/using-vite) (for styling)
 - UI testing with [Playwright with network mocking](https://playwright.dev/docs/mocking) (for testing API calls and UI interactions)
 
