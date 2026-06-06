@@ -36,9 +36,9 @@ Develop a new React project that displays a list of items fetched from an API
 
 
 ## Best practices to follow
-- Use functional components and React hooks
-- Keep components small and focused on a single responsibility
-- Use PropTypes for type checking
-- Handle errors gracefully, especially for API calls
-- Write tests for components and API calls
-- Use Tailwind for consistent styling and responsive design
+- MUST use functional components and React hooks
+- MUST keep components small and focused on a single responsibility
+- MUST use PropTypes for type checking
+- MUST handle errors gracefully, especially for API calls
+- MUST write tests for components and API calls with mocking to ensure reliability and maintainability
+- MUST use Tailwind for consistent styling and responsive design
