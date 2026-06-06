@@ -10,8 +10,8 @@ Develop a new React project that displays a list of items fetched from an API
 ## Technologies
 - React
 - Axios (for API calls)
-- CSS with Tailwind (for styling)
-- UI testing with Playwright with network mocking
+- CSS with [Tailwind](https://tailwindcss.com/docs/installation/using-vite) (for styling)
+- UI testing with [Playwright with network mocking](https://playwright.dev/docs/mocking) (for testing API calls and UI interactions)
 
 ## Project structure with feature-based organization
 ```src/
